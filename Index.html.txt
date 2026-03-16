@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pronájem lodí Orlík</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Pronájem lodí na přehradě Orlík</h1>
+        <p>Vybírejte z našich lodí a užijte si krásy přírody!</p>
+    </header>
+    
+    <main>
+        <section id="lodě">
+            <h2>Lodě k pronájmu</h2>
+            <div class="boat">
+                <h3>Loď 1</h3>
+                <p>Popis lodi...</p>
+                <img src="boat1.jpg" alt="Loď 1">
+            </div>
+            <div class="boat">
+                <h3>Loď 2</h3>
+                <p>Popis lodi...</p>
+                <img src="boat2.jpg" alt="Loď 2">
+            </div>
+            <div class="boat">
+                <h3>Loď 3</h3>
+                <p>Popis lodi...</p>
+                <img src="boat3.jpg" alt="Loď 3">
+            </div>
+            <div class="boat">
+                <h3>Loď 4</h3>
+                <p>Popis lodi...</p>
+                <img src="boat4.jpg" alt="Loď 4">
+            </div>
+            <div class="boat">
+                <h3>Loď 5</h3>
+                <p>Popis lodi...</p>
+                <img src="boat5.jpg" alt="Loď 5">
+            </div>
+        </section>
+
+        <section id="kontakt">
+            <h2>Kontakt</h2>
+            <p>Majitel: Jan Novák</p>
+            <p>Telefon: +420 123 456 789</p>
+            <p>Email: info@lodenaorliku.cz</p>
+        </section>
+        
+        <section id="fotogalerie">
+            <h2>Fotogalerie</h2>
+            <img src="priklad1.jpg" alt="Pohled na přehradu">
+            <img src="priklad2.jpg" alt="Loď na vodě">
+            <img src="priklad3.jpg" alt="Západ slunce">
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 Pronájem lodí Orlík</p>
+    </footer>
+</body>
+</html>

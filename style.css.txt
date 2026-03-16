@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #6AB5FF;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 1rem;
+}
+
+h2 {
+    border-bottom: 2px solid #6AB5FF;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.boat {
+    margin-bottom: 2rem;
+}
+
+.boat img, #fotogalerie img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0.5rem 0;
+}
+
+#kontakt {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+footer {
+    text-align: center;
+    background: #6AB5FF;
+    color: #fff;
+    padding: 1rem 0;
+}
